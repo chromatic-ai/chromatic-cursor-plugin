@@ -1,7 +1,7 @@
 {
   "name": "chromatic",
   "displayName": "Chromatic",
-  "description": "Create images and video on your Chromatic account from Cursor.",
+  "description": "Generate images and videos using Chromatic MCP from Cursor.",
   "version": "0.1.0",
   "publisher": "Chromatic Labs",
   "author": {
