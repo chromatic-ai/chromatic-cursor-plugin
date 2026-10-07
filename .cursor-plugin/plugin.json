@@ -1,0 +1,18 @@
+{
+  "name": "chromatic",
+  "displayName": "Chromatic",
+  "description": "Generate images and video on your Chromatic account from Cursor. One chat keeps one canvas.",
+  "version": "0.1.0",
+  "publisher": "Chromatic Labs",
+  "author": {
+    "name": "Chromatic Labs",
+    "email": "hello@chromaticlabs.co"
+  },
+  "homepage": "https://www.chromaticlabs.co",
+  "repository": "https://github.com/chromatic-ai/chromatic-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["image", "video", "generate", "canvas"],
+  "category": "creative",
+  "tags": ["mcp", "image", "video"]
+}
