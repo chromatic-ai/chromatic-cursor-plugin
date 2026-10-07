@@ -1,7 +1,7 @@
 {
   "name": "chromatic",
   "displayName": "Chromatic",
-  "description": "Generate images and video on your Chromatic account from Cursor. One chat keeps one canvas.",
+  "description": "Ask in chat for a picture or a video. Chromatic makes it with your account and saves every shot from that chat on one canvas you can open on chromaticlabs.co.",
   "version": "0.1.0",
   "publisher": "Chromatic Labs",
   "author": {

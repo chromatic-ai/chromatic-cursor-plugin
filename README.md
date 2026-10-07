@@ -1,6 +1,6 @@
 # Chromatic
 
-Generate images and video on your Chromatic account from Cursor and Grok Bot. One chat keeps one canvas. The balance is the same wallet as [chromaticlabs.co](https://www.chromaticlabs.co).
+Ask in chat for a picture or a video. Chromatic makes it with your account and saves every shot from that chat on one canvas you can open on [chromaticlabs.co](https://www.chromaticlabs.co). The balance is the same wallet as the website.
 
 ## Install
 
